@@ -14,12 +14,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/janis.git
+   git clone https://github.com/yhkq1/ip-grabber-template.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd janis
+   cd ip-grabber-template
    ```
 
 3. Open `index.html` in your browser to view the project.
@@ -47,8 +47,8 @@ This project collects user information for demonstration purposes only. Ensure c
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-Your Name  
-[Your GitHub Profile](https://github.com/yhkq1)
+Janis | @yhkq1  
+[Janis' Github profile](https://github.com/yhkq1)
 
 ## Acknowledgements
 - Inspiration from web analytics and monitoring tools.
