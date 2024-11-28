@@ -1,2 +1,3 @@
-# ip-grabber-template
-Ip Grabber template
+# IP Grabber Template
+A simple IP Grabber using JavaScript (+HTML).
+
